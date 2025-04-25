@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Last Updated: April 25, 2025</p>
+
+  <h2>Introduction</h2>
+  <p>Welcome to our Phrase Learner extension. This privacy policy outlines the types of information we collect and how we use it. Your privacy is important to us, and we are committed to protecting your personal information.</p>
+
+  <h2>Information We Collect</h2>
+  <p>We do not collect any personal information through the Phrase Learner extension. The app is designed to function completely offline, and all data is stored locally on your device.</p>
+
+  <h2>How We Use Your Data</h2>
+  <p>Any data (such as phrases or notes) you input into the app is stored locally on your device and is not transmitted to any servers. We do not access or store your data remotely.</p>
+
+  <h2>Third-Party Services</h2>
+  <p>We do not use third-party services, analytics, or tracking tools in this extension.</p>
+
+  <h2>Data Security</h2>
+  <p>Since all data is stored locally on your device, there is minimal risk of data breaches. However, we recommend using general device security measures such as encryption or password protection to safeguard your data.</p>
+
+  <h2>Changes to This Policy</h2>
+  <p>We may update this privacy policy from time to time. Any changes will be reflected on this page, and the last updated date will be revised accordingly. We encourage you to review this policy periodically.</p>
+
+  <h2>Contact Us</h2>
+  <p>If you have any questions or concerns about this privacy policy, please contact us at:</p>
+  <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+
+</body>
+</html>
