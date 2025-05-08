@@ -1,0 +1,42 @@
+# Privacy Policy — Open Call Assistant
+
+_Last updated: May 8, 2025_
+
+**Open Call Assistant** is a Chrome extension that helps users save open call pages and set deadline reminders. We are committed to protecting your privacy. This privacy policy outlines what data the extension uses and how it is handled.
+
+## 1. Data Collection
+
+We do **not** collect, store, or transmit any personal data to any external servers.
+
+The extension only stores the following information **locally** in your browser:
+- Open call URLs you choose to save
+- Titles and deadlines you manually input
+- Countdown settings associated with each saved item
+
+## 2. Permissions Used
+
+The extension uses the following Chrome permissions:
+
+- `storage`: to save your open call data locally in your browser.
+- `activeTab`: to retrieve the URL and title of the current tab only when you activate the extension.
+
+No browsing history, form inputs, or personal data are accessed or stored.
+
+## 3. Third-Party Access
+
+We do **not** share your data with any third parties. All data remains local to your device and under your control.
+
+## 4. Security
+
+Since no data is transmitted externally, your information is secure and private within your own browser environment.
+
+## 5. Changes to This Policy
+
+We may update this policy in the future to reflect changes in features or Chrome policies. Any updates will be posted on this page with a revised date.
+
+## 6. Contact
+
+If you have any questions or concerns about this policy, feel free to contact the developer at:
+
+📧 whalentye@gmail.com
+
