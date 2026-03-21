@@ -1,0 +1,49 @@
+Last updated: March 21, 2026
+1. Introduction
+JDConclude is a Chrome extension that helps job seekers summarize English job descriptions from LinkedIn and Indeed into Chinese, generate personalized cover letters, and manage job search progress. This Privacy Policy explains how we handle your data.
+2. Information We Collect
+2.1 Information You Provide
+Personal profile: Name, email, job preferences (stored locally in your browser)
+Saved jobs: Job titles, companies, application status, notes
+Generated content: Cover letters and summaries created by you
+2.2 Information We Access
+Job page content: When you actively click the JDConclude icon on LinkedIn/Indeed, we temporarily read the job description text visible on that page
+3. How We Use Your Information
+Table
+Data	Purpose	Storage
+Personal profile	Generate personalized cover letters	Local browser only (Chrome storage)
+Saved jobs	Track your job application progress	Local browser only
+Job descriptions	Create Chinese summaries and cover letters	Not stored — processed in real-time and discarded
+Generated cover letters	For your copy/paste use	Local browser only
+4. Data Processing & Third-Party Services
+4.1 AI Processing (if applicable)
+If JDConclude uses AI for summarization/cover letter generation:
+Job descriptions and your profile data are sent to AI service providers (e.g., OpenAI, Anthropic, or similar)
+We do not use your data to train AI models
+Data is transmitted securely via HTTPS
+Processing is done in real-time; inputs are not retained by AI providers per their data retention policies
+4.2 No Sale of Data
+We do not sell, trade, or rent your personal information to third parties.
+5. Data Storage & Security
+All personal data is stored locally in your Chrome browser using Chrome Storage API
+We do not operate external servers to store your data
+Data is tied to your browser profile; uninstalling the extension removes all stored data
+We recommend enabling Chrome sync if you wish to back up your data across devices
+6. Permissions Explained
+Table
+Permission	Why We Need It
+storage	Save your profile, settings, and saved jobs locally
+activeTab	Temporarily access the current tab when you click our icon
+scripting	Extract job description text from the page you activated
+host permissions	Only for linkedin.com and indeed.com job pages
+clipboardWrite (optional)	Copy generated cover letters to your clipboard
+7. Your Rights
+You can:
+View all stored data in the extension's settings page
+Delete all data by uninstalling the extension or using the "Clear All Data" button
+Export your saved jobs (if feature is provided)
+8. Changes to This Policy
+We may update this Privacy Policy. Changes will be posted here with an updated date.
+9. Contact Us
+For questions about this Privacy Policy or data practices, contact:
+whalenty@gmail.com
